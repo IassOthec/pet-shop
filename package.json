@@ -1,15 +1,33 @@
 {
-  "name": "ptas-05-11",
+  "name": "petcare-pet-shop",
   "version": "1.0.0",
   "private": true,
-  "description": "Exercícios de CORS, React, formulário POST e MongoDB Atlas",
+  "description": "PetCare — sistema de gestão para Pet Shop · projeto parcial PTAS3",
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
   "scripts": {
-    "install:all": "npm --prefix backend install && npm --prefix frontend install",
-    "dev:backend": "npm --prefix backend run dev",
-    "dev:frontend": "npm --prefix frontend run dev",
-    "start:backend": "npm --prefix backend start",
-    "build:frontend": "npm --prefix frontend run build"
+    "dev": "concurrently --kill-others-on-fail -n API,WEB -c green,cyan \"npm run dev --workspace backend\" \"npm run dev --workspace frontend\"",
+    "dev:backend": "npm run dev --workspace backend",
+    "dev:frontend": "npm run dev --workspace frontend",
+    "start:backend": "npm run start --workspace backend",
+    "build:frontend": "npm run build --workspace frontend",
+    "install:all": "npm install"
   },
+  "keywords": [
+    "pet-shop",
+    "express",
+    "react",
+    "zod",
+    "json"
+  ],
   "author": "Marjorie da Silva Santos",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
 }
