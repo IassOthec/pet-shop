@@ -1,0 +1,206 @@
+[
+  {
+    "id": "8f14e45f-ceea-4f7e-9f3e-1a2b3c4d5e01",
+    "name": "Mel",
+    "species": "cao",
+    "breed": "Golden Retriever",
+    "size": "grande",
+    "birthDate": "2021-04-12",
+    "tutor": {
+      "name": "Ana Beatriz Souza",
+      "phone": "(67) 99812-4477",
+      "email": "ana.souza@email.com"
+    },
+    "notes": "Alergia a frango. Usa shampoo hipoalergênico nas consultas de banho e tosa.",
+    "createdAt": "2026-10-27T13:20:00.000Z",
+    "updatedAt": "2026-10-27T13:20:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8f14e45f-ceea-4f7e-9f3e-1a2b3c4d5e02",
+    "name": "Thor",
+    "species": "cao",
+    "breed": "Border Collie",
+    "size": "medio",
+    "birthDate": "2022-08-03",
+    "tutor": {
+      "name": "Rafael Lima",
+      "phone": "(67) 99655-1203",
+      "email": "rafael.lima@email.com"
+    },
+    "notes": "Muito energético. Adora o tapete de agility e precisa de bastante água durante os atendimentos.",
+    "createdAt": "2026-10-25T09:40:00.000Z",
+    "updatedAt": "2026-10-25T09:40:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8f14e45f-ceea-4f7e-9f3e-1a2b3c4d5e03",
+    "name": "Luna",
+    "species": "gato",
+    "breed": "Siamês",
+    "size": "pequeno",
+    "birthDate": "2023-01-27",
+    "tutor": {
+      "name": "Camila Ferreira",
+      "phone": "(67) 99231-8890",
+      "email": "camila.ferreira@email.com"
+    },
+    "notes": "Gosta de brinquedos com penas. Fica nervosa com secador, prefere secagem natural.",
+    "createdAt": "2026-10-23T15:05:00.000Z",
+    "updatedAt": "2026-10-23T15:05:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8f14e45f-ceea-4f7e-9f3e-1a2b3c4d5e04",
+    "name": "Simba",
+    "species": "gato",
+    "breed": "Persa",
+    "size": "pequeno",
+    "birthDate": "2020-11-09",
+    "tutor": {
+      "name": "João Pedro Alves",
+      "phone": "(67) 99144-7722",
+      "email": "joao.alves@email.com"
+    },
+    "notes": "Escovação diária por causa dos nós. Muito dócil durante o banho.",
+    "createdAt": "2026-10-20T11:30:00.000Z",
+    "updatedAt": "2026-10-20T11:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8f14e45f-ceea-4f7e-9f3e-1a2b3c4d5e05",
+    "name": "Nina",
+    "species": "cao",
+    "breed": "Poodle",
+    "size": "pequeno",
+    "birthDate": "2019-06-18",
+    "tutor": {
+      "name": "Fernanda Castro",
+      "phone": "(67) 99788-3011",
+      "email": "fernanda.castro@email.com"
+    },
+    "notes": "Tosa bebê nas patas e na face. Não pode usar perfume.",
+    "createdAt": "2026-10-18T17:10:00.000Z",
+    "updatedAt": "2026-10-18T17:10:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8f14e45f-ceea-4f7e-9f3e-1a2b3c4d5e06",
+    "name": "Kiwi",
+    "species": "ave",
+    "breed": "Calopsita",
+    "size": "pequeno",
+    "birthDate": "2024-02-14",
+    "tutor": {
+      "name": "Bruno Martins",
+      "phone": "(67) 99512-6688",
+      "email": "bruno.martins@email.com"
+    },
+    "notes": "Asas aparadas em 12/10. Trazer sempre na transportadora.",
+    "createdAt": "2026-10-15T08:55:00.000Z",
+    "updatedAt": "2026-10-15T08:55:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8f14e45f-ceea-4f7e-9f3e-1a2b3c4d5e07",
+    "name": "Bidu",
+    "species": "cao",
+    "breed": "SRD",
+    "size": "pequeno",
+    "birthDate": "2018-09-30",
+    "tutor": {
+      "name": "Luiza Rocha",
+      "phone": "(67) 99321-9955",
+      "email": null
+    },
+    "notes": "Resgatado em 2020. Tem medo de barulho alto; atender em sala reservada.",
+    "createdAt": "2026-10-12T14:25:00.000Z",
+    "updatedAt": "2026-10-12T14:25:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8f14e45f-ceea-4f7e-9f3e-1a2b3c4d5e08",
+    "name": "Amora",
+    "species": "roedor",
+    "breed": "Hamster Sírio",
+    "size": "pequeno",
+    "birthDate": "2025-05-05",
+    "tutor": {
+      "name": "Pedro Henrique Dias",
+      "phone": "(67) 99488-1122",
+      "email": "pedro.dias@email.com"
+    },
+    "notes": "Consulta de rotina a cada três meses. Tutor traz a própria gaiola de transporte.",
+    "createdAt": "2026-10-09T10:00:00.000Z",
+    "updatedAt": "2026-10-09T10:00:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8f14e45f-ceea-4f7e-9f3e-1a2b3c4d5e09",
+    "name": "Fred",
+    "species": "cao",
+    "breed": "Labrador",
+    "size": "grande",
+    "birthDate": "2017-12-01",
+    "tutor": {
+      "name": "Mariana Costa",
+      "phone": "(67) 99877-4410",
+      "email": "mariana.costa@email.com"
+    },
+    "notes": "Idoso, com leve displasia. Evitar escadas e exercícios longos.",
+    "createdAt": "2026-10-05T16:45:00.000Z",
+    "updatedAt": "2026-10-05T16:45:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8f14e45f-ceea-4f7e-9f3e-1a2b3c4d5e10",
+    "name": "Pandora",
+    "species": "gato",
+    "breed": "SRD",
+    "size": "pequeno",
+    "birthDate": "2022-03-21",
+    "tutor": {
+      "name": "Igor Nunes",
+      "phone": "(67) 99211-3377",
+      "email": "igor.nunes@email.com"
+    },
+    "notes": "Castrada em janeiro. Muito sociável, pode dividir a sala de espera.",
+    "createdAt": "2026-10-02T12:15:00.000Z",
+    "updatedAt": "2026-10-02T12:15:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": "8f14e45f-ceea-4f7e-9f3e-1a2b3c4d5e11",
+    "name": "Zeca",
+    "species": "gato",
+    "breed": "SRD",
+    "size": "pequeno",
+    "birthDate": "2016-07-11",
+    "tutor": {
+      "name": "Helena Prado",
+      "phone": "(67) 99633-2200",
+      "email": "helena.prado@email.com"
+    },
+    "notes": "Cadastro antigo arquivado após mudança de cidade do tutor.",
+    "createdAt": "2026-09-20T09:10:00.000Z",
+    "updatedAt": "2026-10-22T16:40:00.000Z",
+    "deletedAt": "2026-10-22T16:40:00.000Z"
+  },
+  {
+    "id": "8f14e45f-ceea-4f7e-9f3e-1a2b3c4d5e12",
+    "name": "Pretinha",
+    "species": "cao",
+    "breed": "SRD",
+    "size": "medio",
+    "birthDate": "2015-01-08",
+    "tutor": {
+      "name": "Carlos Eduardo",
+      "phone": "(67) 99100-5566",
+      "email": null
+    },
+    "notes": "Atendimento encerrado. Registro mantido para histórico do pet shop.",
+    "createdAt": "2026-09-12T18:20:00.000Z",
+    "updatedAt": "2026-10-29T11:15:00.000Z",
+    "deletedAt": "2026-10-29T11:15:00.000Z"
+  }
+]
