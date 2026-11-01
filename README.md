@@ -66,7 +66,7 @@ O CORS aceita várias origens separadas por vírgula. Em produção, não use `*
 ## 2. Estrutura do projeto
 
 ```text
-ptas.05.11/
+pet-shop/
 ├── backend/
 │   ├── controllers/
 │   │   └── pets.controller.js      # traduz HTTP <-> service e define status
@@ -351,4 +351,4 @@ git status
 - O projeto não usa MongoDB; a persistência é local em JSON, conforme a etapa inicial da atividade.
 - O arquivo `backend/data/pets.json` é versionado de propósito, para que a base de demonstração esteja disponível em qualquer máquina.
 - `node_modules/`, `frontend/dist/` e arquivos `.env` estão no `.gitignore`.
-- O push para o GitHub não é feito automaticamente por este projeto; os commits ficam no repositório local até você executar `git push`.
+- Repositório publicado em **https://github.com/marjoriesantos-netizen/pet-shop**.
