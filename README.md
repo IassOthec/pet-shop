@@ -1,4 +1,4 @@
-# PetCare 🐾
+# PetCare 
 
 Sistema de gerenciamento para pet shop, desenvolvido como um projeto parcial. O PetCare permite organizar os cadastros de animais e seus tutores, com uma interface simples para visualizar, cadastrar, editar, pesquisar e arquivar pets.
 
